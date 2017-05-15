@@ -9,5 +9,6 @@ elseif($num[0]>$num[1]) {
 }
 elseif($num[0]==$num[1]){
     echo "eq";
+    
 }
 ?>
